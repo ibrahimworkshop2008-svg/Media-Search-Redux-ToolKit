@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
@@ -19,3 +20,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # ReduxToolkIt-First-Practice
 This is my first practice of Redux Toolkit.I learn how the redux toolkit work.Redux toolkit is not the part of React.I learn how they interate with react.
 >>>>>>> 5407575bc74e7f5982b7613f9c829b1efff480d6
+=======
+# Media-Search-Redux-ToolKit
+This is the Media Search Project.Where we find images and videos.This is made by redustoolkit and interact with react.
+>>>>>>> 38902668a5c7fba0e17f8b9ba08e2ff84d1579a2
