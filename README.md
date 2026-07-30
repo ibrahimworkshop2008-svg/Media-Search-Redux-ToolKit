@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the Oxlint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+=======
+# ReduxToolkIt-First-Practice
+This is my first practice of Redux Toolkit.I learn how the redux toolkit work.Redux toolkit is not the part of React.I learn how they interate with react.
+>>>>>>> 5407575bc74e7f5982b7613f9c829b1efff480d6
